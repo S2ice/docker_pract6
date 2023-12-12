@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZZSFnXhEre1YbIxt4r64UvAeoC3538pU2kIGEvH2FZpDOWsE3V8CvTUmxVsX0awnL4jMfZlIhUJv/gIXP0eKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denmi\\source\\repos\\DockerPract6\\DockerPract6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denmi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
